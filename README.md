@@ -10,9 +10,9 @@ Prominent features include:
 
 
 Python packages used:
-streamlit
-transformers
-youtube transcript api
-newspaper
-beautiful soup
+streamlit, 
+transformers, 
+youtube transcript api, 
+newspaper, 
+beautiful soup, 
 requests
